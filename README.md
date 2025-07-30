@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Zekee69
-- 👀 I’m interested in Graphic Designing
-- 🌱 I’m currently doing Bachelor Degree in Computer Science...
+- 👋 Hi, I’m Muhammad Abu Talha
+- 👀 I’m interested in Web Designing
+- 🌱 I’m done with my Bachelor Degree in Computer Science...
 - 📫 To reach me on instagram @ig_zekewalker
 
 <!---
